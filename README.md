@@ -5,7 +5,7 @@
 
 ## Description 
 
-Note Taker is a command-line application created to allow the user to manage a company's employee database using Node.js, Inquirer and MySQL. You are able to view and manage the departments, roles, and employees in a company for organizational purposes. A link is provided below that demonstrates the applications fucntionality. 
+This e-commerce website uses the latest technologies to be competative. The back-end of this application was built uses an Express.js API to use Sequelize to interact with a MySQL database. A link is provided below that demonstrates the applications fucntionality. 
 
 
 ## Table of Contents 
@@ -25,11 +25,11 @@ Note Taker is a command-line application created to allow the user to manage a c
 
 ## Installtion
 
-To install this application you will clone the repository to your local machine. Installtion of Inquirer, MySQL2, console.table and dotenv are required to run this application as well. 
+To install this application you will clone the repository to your local machine. Installtion of Express, MySQL2, Sequelize and dotenv are required to run this application as well. 
 
 ## Usage 
 
-Once in the command line you will be prompted to select from a list of the following: view all departments, view all roles, view all employees, add a department, add a role, add an employee, and update an employee role. You will select what you want to do and be prompt with either a table of information or a set of questions to answer. When finished you will select exit. 
+Using insomnia you will be able to see the functionality of the GET, POST, PUT and DELETE routes created.
 
 
 [Walkthrough video]()
