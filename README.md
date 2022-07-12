@@ -35,7 +35,7 @@ Using insomnia you will be able to see the functionality of the GET, POST, PUT a
 
 - Schema creation/seeding the database [Walkthrough video](https://drive.google.com/file/d/1dtgqgRqqbzkbRo0M2qnogZyo2eAHTQir/view)
 
-- GET, POST, PUT AND DELETE [Walkthrough video](https://drive.google.com/file/d/1dtgqgRqqbzkbRo0M2qnogZyo2eAHTQir/view)
+- GET, POST, PUT AND DELETE [Walkthrough video](https://drive.google.com/file/d/1LNkHr5eabH2WS7cJD2Bc2FYT4qTFNQnL/view)
 
 
 
