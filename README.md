@@ -32,7 +32,11 @@ To install this application you will clone the repository to your local machine.
 Using insomnia you will be able to see the functionality of the GET, POST, PUT and DELETE routes created.
 
 
-[Walkthrough video]()
+
+- Schema creation/seeding the database [Walkthrough video](https://drive.google.com/file/d/1dtgqgRqqbzkbRo0M2qnogZyo2eAHTQir/view)
+
+- GET, POST, PUT AND DELETE [Walkthrough video](https://drive.google.com/file/d/1dtgqgRqqbzkbRo0M2qnogZyo2eAHTQir/view)
+
 
 
 ## Contribution 
